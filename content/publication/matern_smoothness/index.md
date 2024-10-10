@@ -1,5 +1,5 @@
 ---
-title: "A functional regression model for heterogeneous BioGeoChemical Argo data in the Southern Ocean"
+title: "Smoothness Estimation for Whittle-Matérn Processes on Closed Riemannian Manifolds"
 authors:
 - admin
 - Toni Karvonen
