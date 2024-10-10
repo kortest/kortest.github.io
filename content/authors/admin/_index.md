@@ -63,7 +63,7 @@ work:
     company_logo: ecb_logo
     date_start: 2017-09-01
     date_end: 2019-07-31
-    summary: | 2-
+    summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
