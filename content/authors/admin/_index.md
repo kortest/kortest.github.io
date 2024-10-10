@@ -54,7 +54,7 @@ education:
     date_end: 2017-08-31
   - area: BSc Mathematics
     institution: Eberhard Karls Universität Tübingen
-    date_start: 2011-10-1
+    date_start: 2011-10-01
     date_end: 2015-03-31
 
 work:
