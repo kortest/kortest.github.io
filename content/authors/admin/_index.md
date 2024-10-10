@@ -65,9 +65,9 @@ work:
     date_end: 2019-07-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Maintenance and development of Java library at the core of data reception, production and dissemination.
+      - Project team to rebuilt the ECB's statistical data production environment: collection of user requirements and building of prototypes.
+      - User support.
   - position: Intern
     company_name: European Space Agency
     company_url: ''
