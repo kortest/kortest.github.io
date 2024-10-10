@@ -44,14 +44,13 @@ education:
     date_start: 2019-09-01
     date_end: 2024-09-17
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis containing papers on theoretical results on covariance estimation for stochastic processes and an application to oceanographic data in the Southern ocean.
   - area: MSc Mathematics
     institution: University of Copenhagen
     date_start: 2015-09-01
     date_end: 2017-08-31
+    summary: |
+      Thesis on simulation of max-stable random fields via point-process representations.
   - area: BSc Mathematics
     institution: Eberhard Karls Universität Tübingen
     date_start: 2011-10-01
@@ -62,9 +61,9 @@ work:
     company_name: European Central Bank
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
+    date_start: 2017-09-01
+    date_end: 2019-07-31
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -77,9 +76,9 @@ work:
     date_end: 2015-07-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Implementation of novel outlier detection algorithms in Java.
+      - Research and development of novel algorithms for outlier detection in time series data.
+      - Model validation on internal ESA data.
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -89,5 +88,4 @@ awards:
   - title: Outstanding Graduate Student Instructor
     date: 2021-05-01
     awarder: Department of Statistics, University of Michigan
-    icon: coursera
 ---

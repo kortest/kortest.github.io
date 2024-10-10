@@ -2,6 +2,8 @@
 title: "Smoothness Estimation for Whittle-Matérn Processes on Closed Riemannian Manifolds"
 authors:
 - admin
+- Toni Karvonen
+- Eric Moulines
 date: "2024-04-15T00:00:00Z"
 doi: ""
 
