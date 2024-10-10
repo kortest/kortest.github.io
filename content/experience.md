@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
+  - block: resume_modified
     content:
       username: admin
     design:
