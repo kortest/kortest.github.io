@@ -6,16 +6,23 @@ type: landing
 design:
   spacing: '5rem'
 
-# Note: `username` refers to the user's folder name in `content/authors/`
-
 # Page sections
 sections:
-  - block: resume-experience
+  - block: collection
+    title: Teaching
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      view: card
+      columns: 1
     content:
-      username: teaching_author
+      items:
+        - title: 2021 & 2022 Incoming PhD Students Preparation Workshop Instructor
+          company: Department of Statistics, University of Michigan
+          company_url: 'https://umich.edu'
+          company_logo: um
+          location: Ann Arbor, MI, USA
+          date_start: '2021-08-10'
+          date_end: '2022-08-15'
 ---
