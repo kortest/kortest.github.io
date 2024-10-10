@@ -1,24 +1,21 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2023-03-10
+title: 'Experience'
+date: 2023-10-24
 type: landing
 
-sections: 
-  - block: hero
-    content:
-      title: TEACHING
-      text: 
+design:
+  spacing: '5rem'
+
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
+sections:
+  - block: resume-experience
     design:
-      columns: 2
-      background:
-        gradient_start: '#c31432'
-        gradient_end: '#240b36'
-        gradient_angle: 180
-        text_color_light: true
-  - block: experience
-    design:
-      columns: '2'
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
     content:
       title: PAST COURSES
       date_format: Jan 2006
