@@ -90,6 +90,4 @@ awards:
     date: Winter 2021
     awarder: Department of Statistics, University of Michigan
     icon: coursera
-
-
-
+---
