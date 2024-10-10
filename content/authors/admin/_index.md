@@ -60,7 +60,7 @@ work:
   - position: Research Analyst
     company_name: European Central Bank
     company_url: ''
-    company_logo: 'brands/ecb_logo.png'
+    company_logo: Logo_European_Central_Bank
     date_start: 2017-09-01
     date_end: 2019-07-31
     summary: |2-
