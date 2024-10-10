@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "A Multivariate Functional-data Mixture Model for Spatio-temporal Data: Inference and Cokriging"
 authors:
 - admin
 - Drew Yarger
