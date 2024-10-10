@@ -6,10 +6,6 @@ title: Moritz Korte-Stapff
 first_name: Moritz
 last_name: Korte-Stapff
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -56,20 +52,10 @@ education:
     institution: University of Copenhagen
     date_start: 2015-09-01
     date_end: 2017-08-31
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Mathematics
     institution: Eberhard Karls Universität Tübingen
     date_start: 2011-10-1
     date_end: 2015-03-31
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
   - position: Research Analyst
@@ -104,7 +90,6 @@ awards:
     date: Winter 2021
     awarder: Department of Statistics, University of Michigan
     icon: coursera
-    summary: |
 
 
 
