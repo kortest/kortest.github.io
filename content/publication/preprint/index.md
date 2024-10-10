@@ -1,10 +1,10 @@
 ---
-title: "Smoothness Estimation for Whittle-Matérn Processes on Closed Riemannian Manifolds"
+title: "On Maximum Likelihood Estimation for Matérn Processes on Graphs"
 authors:
 - admin
-- Toni Karvonen
-- Eric Moulines
-date: "2024-04-15T00:00:00Z"
+- Stilian Stoev
+- Tailen Hsing
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 
@@ -17,22 +17,10 @@ publication_types: ["preprint"]
 publication: ""
 publication_short: ""
 
-abstract: The family of Matérn kernels are often used in spatial statistics, function approximation and Gaussian process methods in machine learning. One reason for their popularity is the presence of a smoothness parameter that controls, for example, optimal error bounds for kriging and posterior contraction rates in Gaussian process regression. On closed Riemannian manifolds, we show that the smoothness parameter can be consistently estimated from the maximizer(s) of the Gaussian likelihood when the underlying data are from point evaluations of a Gaussian process and, perhaps surprisingly, even when the data comprise evaluations of a non-Gaussian process. The points at which the process is observed need not have any particular spatial structure beyond quasi-uniformity. Our methods are based on results from approximation theory for the Sobolev scale of Hilbert spaces. Moreover, we generalize a well-known equivalence of measures phenomenon related to Matérn kernels to the non-Gaussian case by using Kakutani's theorem. 
+abstract: In this paper,we study parameter estimation for Matérn covariance models for stochastic processes indexed by vertices of graphs. To the best of our knowledge, asymptotic properties of the maximum likelihood estimators for this model or related models on graphs have not been established in the literature yet. First, we establish finite-sample lower bounds on the estimation error valid for all estimators. This leads to minimax-type lower bounds on the rate of any parameter estimator. Specifically, the lower bound on the rate is explicitly expressed in terms of the rate of growth of the eigenvalues of the Graph Laplacian. Next, we provide mild regularity conditions under which the maximum likelihood estimators of the parameter vector are consistent. Finally, we prove central limit theorems for the maximum likelihood estimators. 
 
 tags:
 - Matérn kernels, Riemannian Manifolds, Maximum Likelihood Estimation, Random Fields
 
 featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: https://arxiv.org/abs/2401.00510
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 ---
