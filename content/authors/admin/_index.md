@@ -88,4 +88,5 @@ awards:
   - title: Outstanding Graduate Student Instructor
     date: 2021-05-01
     awarder: Department of Statistics, University of Michigan
+    icon: brands/um
 ---
