@@ -28,6 +28,7 @@ sections:
     content:
       title: Awards
       username: admin
+      icon: brands/um
   - block: resume-languages
     content:
       title: Languages
