@@ -20,7 +20,7 @@ work:
     date_start: 2022-01-01
     date_end: 2022-05-01
     summary: 
-      -Graduate Level class on Linear Regression Methods.
+      - Graduate Level class on Linear Regression Methods.
   - position: Graduate Student Instructor, STATS 415
     company_name: University of Michigan
     company_url: ''
