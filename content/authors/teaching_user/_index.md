@@ -13,26 +13,44 @@ superuser: false
 highlight_name: false
 
 work:
-  - position: Research Analyst
-    company_name: European Central Bank
+  - position: Graduate Student Instructor: STATS 500
+    company_name: University of Michigan
     company_url: ''
     company_logo: Logo_European_Central_Bank
-    date_start: 2017-09-01
-    date_end: 2019-07-31
-    summary: |2-
-      Responsibilities include:
-      - Maintenance and development of Java library at the core of data reception, production and dissemination.
-      - Project team to rebuilt the ECB's statistical data production environment: collection of user requirements and building of prototypes.
-      - User support.
-  - position: Intern
-    company_name: European Space Agency
+    date_start: 2020-01-01
+    date_end: 2020-04-31
+    summary: 
+      -Graduate Level class on Linear Regression Methods.
+  - position: Graduate Student Instructor: STATS 415
+    company_name: University of Michigan
     company_url: ''
-    company_logo: ''
-    date_start: 2015-03-01
-    date_end: 2015-07-31
-    summary: |
-      Responsibilities include:
-      - Implementation of novel outlier detection algorithms in Java.
-      - Research and development of novel algorithms for outlier detection in time series data.
-      - Model validation on internal ESA data.
+    company_logo: Logo_European_Central_Bank
+    date_start: 2020-01-01
+    date_end: 2020-04-31
+    summary: 
+      - Advanced undergraduate class on machine learning. Topics inlcude Radom Forests, Neural Networks, Ensemble Methods, Linear Regression.
+  - position: Graduate Student Instructor: STATS 415
+    company_name: University of Michigan
+    company_url: ''
+    company_logo: Logo_European_Central_Bank
+    date_start: 2020-09-01
+    date_end: 2020-12-31
+    summary:
+      - Advanced undergraduate class on machine learning. Topics inlcude Radom Forests, Neural Networks, Ensemble Methods, Linear Regression.
+  - position: Graduate Student Instructor: STATS 509
+    company_name: University of Michigan
+    company_url: ''
+    company_logo: Logo_European_Central_Bank
+    date_start: 2020-01-01
+    date_end: 2019-04-31
+    summary:
+      - Graduate level class on statistical methods for financial data. Topics include Basic linear models, ARIMA models, Hypothesis testing, Risk measures.
+  - position: Graduate Student Instructor: STATS 250
+    company_name: University of Michigan
+    company_url: ''
+    company_logo: Logo_European_Central_Bank
+    date_start: 2019-09-01
+    date_end: 2019-12-31
+    summary:
+      - Introductory statistics class.
 ---
