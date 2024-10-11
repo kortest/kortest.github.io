@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on stochastic random fields and in particular their covariance estimation. I am also interested in their application to time series data, spatial data, environmental data and financial data. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Previously, I have worked for the European Central Bank and for the European Space Agency.
         
-        Please reach out to collaborate 😃
+        I am always happy to collaborate on new interesting projects!
     design:
       columns: '1'
   - block: collection
