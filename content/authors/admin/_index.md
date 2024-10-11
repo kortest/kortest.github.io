@@ -84,13 +84,15 @@ teaching:
   - position: Research Analyst
     company_name: European Central Bank
     company_url: ''
-    company_logo: Logo_European_Central_Bank
+    company_logo: um
     date_start: 2017-09-01
     date_end: 2019-07-31
     summary: |2-
       Responsibilities include:
       - Maintenance and development of Java library at the core of data reception, production and dissemination.
-      - Project team to rebuilt the ECB's statistical data production environment: collection of user requirements and building of prototypes.
+      - Building of prototyptes and collection of user requirements for project to rebuild the ECB's statistical data production environment.
+      - Perl scripting, Shell scripting and maintenance of Oracle databases
+      - Setting up dataflows from and to the ECB.
       - User support.
   - position: Intern
     company_name: European Space Agency
