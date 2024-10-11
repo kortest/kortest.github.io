@@ -21,4 +21,13 @@ work:
     date_end: 2020-05-01
     summary: 
       -Graduate Level class on Linear Regression Methods.
+  - position: Graduate Student Instructor, STATS 415
+    company_name: University of Michigan
+    company_url: ''
+    company_logo: Logo_European_Central_Bank
+    date_start: 2020-01-01
+    date_end: 2020-05-01
+    summary: |2-
+      - Advanced undergraduate class on machine learning. Topics inlcude Radom Forests, Neural Networks, Ensemble Methods, Linear Regression.
+
 ---
