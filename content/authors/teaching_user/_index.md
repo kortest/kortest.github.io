@@ -44,7 +44,7 @@ work:
     date_start: 2019-09-01
     date_end: 2019-12-31
     summary: |2-
-      - Introductory Statistics Class. 
+      - Introductory statistics class. 
   - position: Teaching Assistant, Measure Theory
     company_name: University of Copenhagen
     company_url: ''
