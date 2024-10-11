@@ -41,8 +41,8 @@ work:
     company_name: University of Michigan
     company_url: ''
     company_logo: Logo_European_Central_Bank
-    date_start: 2020-01-01
-    date_end: 2020-05-01
+    date_start: 2019-09-01
+    date_end: 2019-12-31
     summary: |2-
-      - Introductory Statistics Class. Topics include Basic linear models, ARIMA models, Hypothesis testing, Risk measures.
+      - Introductory Statistics Class. 
 ---
