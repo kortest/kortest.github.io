@@ -19,7 +19,7 @@ work:
     company_logo: Logo_European_Central_Bank
     date_start: 2022-01-01
     date_end: 2022-05-01
-    summary: 
+    summary: |2-
       - Graduate Level class on Linear Regression Methods.
   - position: Graduate Student Instructor, STATS 415
     company_name: University of Michigan
