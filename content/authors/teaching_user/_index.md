@@ -45,4 +45,12 @@ work:
     date_end: 2019-12-31
     summary: |2-
       - Introductory Statistics Class. 
+  - position: Teaching Assistant, Measure Theory
+    company_name: University of Copenhagen
+    company_url: ''
+    company_logo: Logo_European_Central_Bank
+    date_start: 2016-01-01
+    date_end: 2016-03-31
+    summary: |2-
+      - Measure theory class.
 ---
