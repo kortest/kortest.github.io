@@ -37,20 +37,4 @@ work:
     date_end: 2020-05-01
     summary: |2-
       - Graduate level class on statistical methods for financial data. Topics include Basic linear models, ARIMA models, Hypothesis testing, Risk measures.
-  - position: Graduate Student Instructor, STATS 250
-    company_name: University of Michigan
-    company_url: ''
-    company_logo: Logo_European_Central_Bank
-    date_start: 2019-09-01
-    date_end: 2019-12-31
-    summary:
-      - Introductory statistics class.
-  - position: Teaching Assistant, Measure Theory
-    company_name: University of Copenhagen
-    company_url: ''
-    company_logo: Logo_European_Central_Bank
-    date_start: 2016-01-01
-    date_end: 2016-03-31
-    summary:
-      - Introductory measure theory class.
 ---
