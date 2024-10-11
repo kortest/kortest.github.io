@@ -37,7 +37,7 @@ work:
     date_end: 2020-12-31
     summary:
       - Advanced undergraduate class on machine learning. Topics inlcude Radom Forests, Neural Networks, Ensemble Methods, Linear Regression.
-  - position: Graduate Student Instructor: STATS 509
+  - position: Graduate Student Instructor, STATS 509
     company_name: University of Michigan
     company_url: ''
     company_logo: Logo_European_Central_Bank
@@ -45,7 +45,7 @@ work:
     date_end: 2019-04-31
     summary:
       - Graduate level class on statistical methods for financial data. Topics include Basic linear models, ARIMA models, Hypothesis testing, Risk measures.
-  - position: Graduate Student Instructor: STATS 250
+  - position: Graduate Student Instructor, STATS 250
     company_name: University of Michigan
     company_url: ''
     company_logo: Logo_European_Central_Bank
