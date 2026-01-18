@@ -57,6 +57,11 @@ education:
     date_end: 2015-03-31
 
 work:
+  - position: Senior Analyst
+    company_name: Oliver Wyman
+    company_url: ''
+    company_logo: 'um'
+    date_start: 2025-02-01
   - position: Research Analyst
     company_name: European Central Bank
     company_url: ''
