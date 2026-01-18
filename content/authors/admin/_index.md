@@ -67,7 +67,7 @@ work:
     company_url: ''
     company_logo: 'um'
     date_start: 2017-09-01
-    date_end: 2019-07-31
+    date_end: Current
     summary: |2-
       Responsibilities include:
       - Maintenance and development of Java library at the core of data reception, production and dissemination.
